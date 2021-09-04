@@ -1,0 +1,17 @@
+$nomention
+$onlyAdmin[<a<a:emoji_45:879469309443858463>879469309443858463> Você não tem **permissão** pra usar este comando!]
+$argsCheck[>1; <a<a:emoji_45:879469309443858463>879469309443858463> Escreva quantas mensagens quer apagar!]
+$title[ Clear <a<a:IDP_vassoura:879469846734180413>882359401078476800>]
+$description[
+Limpando... <a<a:dcl_rdAlerta:880145916340875264>880145916340875264>
+
+$clear Limpando $message Mensagens
+
+$editIn[3s;
+<a<a:dcl_azDisco:880145666028994610>880145666028994610> **|** Mensagens Limpas: $message
+
+<<:lixeira:882361359415787550>882361359415787550> **|** Limpeza feita por: <@$authorID>]]
+$thumbnail[$authorAvatar]
+$color[FF00F0]
+$addTimestamp
+$deletecommand
