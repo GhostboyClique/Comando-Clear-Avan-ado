@@ -1,0 +1,13 @@
+$nomention
+$onlyAdmin[<a:emoji_45:879469309443858463> Você não tem **permissão** pra usar este comando!]
+$argsCheck[>1; Escreva quantas mensagens quer apagar!]
+$deletecommand
+$title[**Limpeza**]
+$color[ff00f0]
+$description[
+$clear Limpando $message mensagens!
+$editIn[5s;
+**Limpeza Concluída! ✅**
+
+<:lixeira:882361359415787550> **$message Mensagens Apagadas**]]
+$deleteIn[10s]
